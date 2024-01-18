@@ -1,0 +1,56 @@
+ul{
+	color: green;
+
+}
+nav ul{	
+	background: grey;
+}
+
+div p.micolor{
+	background: blue;
+}
+
+div ul{
+	background: yellow;
+}
+
+.contenedor1 {
+	background:blue ;
+}
+
+.contenedor2{
+	background: orange;
+}
+
+.contenedor3{
+	background: pink;
+}
+
+p{
+	font-style: italic;
+}
+
+.contenedor3 p{
+	font-size: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+/*
+selectores:
+  universal html|                  css| *
+  etiqueta  html| <h1>             css| h1
+  clase     html| class="nombre"   css| .nombre
+
+ 
+
+
+
